@@ -158,20 +158,3 @@ i{
   display: inline-block;
 }
 
-body {
-      background-color: white;
-      color: black;
-      transition: 0.3s;
-    }
-    body.dark-mode {
-      background-color: #121212;
-      color: white;
-    }
-
-    .dark-toggle {
-      cursor: pointer;
-      font-size: 24px;
-      position: fixed;
-      top: 20px;
-      left: 20px;
-    }
